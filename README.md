@@ -22,7 +22,7 @@ This repository contains an interactive sales dashboard for Madhav Ecommerce. Th
 
 📂 Technologies Used
 
-Power BI / Tableau (or whichever you used)
+Power BI
 
 Data visualization techniques
 
