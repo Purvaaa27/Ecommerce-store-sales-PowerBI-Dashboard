@@ -1,8 +1,8 @@
-📊 Madhav Ecommerce Sales Dashboard
+#📊 Madhav Ecommerce Sales Dashboard
 
 This repository contains an interactive sales dashboard for Madhav Ecommerce. The dashboard provides key insights into sales performance, profit trends, quantities sold, and customer behavior across different states and categories. It is designed to help stakeholders, analysts, and managers make data-driven decisions.
 
-🚀 Features
+#🚀 Features
 
 ✔ Sales Summary – Displays total sales, profit, quantity sold, and average order value (AOV).
 
@@ -20,7 +20,8 @@ This repository contains an interactive sales dashboard for Madhav Ecommerce. Th
 
 ✔ Interactive Filters – Enables filtering by state and quarterly performance.
 
-📂 Technologies Used
+
+#📂 Technologies Used
 
 Power BI
 
